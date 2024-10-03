@@ -1,0 +1,9 @@
+chat
+chien
+table
+fleur
+livre
+arbre
+porte
+mer
+loup

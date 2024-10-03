@@ -1,0 +1,11 @@
+voiture
+cahier
+maison
+jardin
+banane
+valise
+chapeau
+bouton
+dentiste
+clavier
+horloge
